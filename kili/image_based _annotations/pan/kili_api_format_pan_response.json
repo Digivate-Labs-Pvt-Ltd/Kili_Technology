@@ -1,0 +1,201 @@
+[
+	{
+		"latestLabel": {
+			"author": {
+				"email": "mailsyed078@gmail.com",
+				"firstname": "Mohsin",
+				"id": "cm3mk3wow208801bpdxsqf2j5",
+				"lastname": "Anwer",
+				"name": "Mohsin Anwer"
+			},
+			"createdAt": "2024-12-11T07:07:07.727Z",
+			"isLatestLabelForUser": true,
+			"isSentBackToQueue": false,
+			"jsonResponse": {
+				"JOB_0": {
+					"annotations": [
+						{
+							"boundingPoly": [
+								{
+									"normalizedVertices": [
+										{
+											"x": 0.03753258891239116,
+											"y": 0.45517241379310347
+										},
+										{
+											"x": 0.03753258891239116,
+											"y": 0.38275862068965527
+										},
+										{
+											"x": 0.3785429681735452,
+											"y": 0.38275862068965527
+										},
+										{
+											"x": 0.3785429681735452,
+											"y": 0.45517241379310347
+										}
+									],
+									"vertices": [
+										{
+											"x": 26.310344827586203,
+											"y": 198.45517241379312
+										},
+										{
+											"x": 26.310344827586203,
+											"y": 166.88275862068969
+										},
+										{
+											"x": 265.3586206896552,
+											"y": 166.88275862068969
+										},
+										{
+											"x": 265.3586206896552,
+											"y": 198.45517241379312
+										}
+									]
+								}
+							],
+							"categories": [
+								{
+									"name": "FATHERS_NAME"
+								}
+							],
+							"labelVersion": "default",
+							"mid": "20241210125516157-31",
+							"type": "rectangle",
+							"children": {
+								"TRANSCRIPTION_JOB_0": {
+									"text": "Mahendra Singh"
+								}
+							}
+						},
+						{
+							"boundingPoly": [
+								{
+									"normalizedVertices": [
+										{
+											"x": 0.03217079049633528,
+											"y": 0.7224137931034482
+										},
+										{
+											"x": 0.03217079049633528,
+											"y": 0.6431034482758621
+										},
+										{
+											"x": 0.3452998179939987,
+											"y": 0.6431034482758621
+										},
+										{
+											"x": 0.3452998179939987,
+											"y": 0.7224137931034482
+										}
+									],
+									"vertices": [
+										{
+											"x": 22.551724137931032,
+											"y": 314.97241379310344
+										},
+										{
+											"x": 22.551724137931032,
+											"y": 280.39310344827584
+										},
+										{
+											"x": 242.05517241379312,
+											"y": 280.39310344827584
+										},
+										{
+											"x": 242.05517241379312,
+											"y": 314.97241379310344
+										}
+									]
+								}
+							],
+							"categories": [
+								{
+									"name": "PAN_NUMBER"
+								}
+							],
+							"labelVersion": "default",
+							"mid": "20241210130637774-47",
+							"type": "rectangle",
+							"children": {
+								"TRANSCRIPTION_JOB_1": {
+									"text": "BWBPS5101G"
+								}
+							}
+						},
+						{
+							"boundingPoly": [
+								{
+									"normalizedVertices": [
+										{
+											"x": 0.035387869545968814,
+											"y": 0.3551724137931035
+										},
+										{
+											"x": 0.035387869545968814,
+											"y": 0.253448275862069
+										},
+										{
+											"x": 0.2991883516159181,
+											"y": 0.253448275862069
+										},
+										{
+											"x": 0.2991883516159181,
+											"y": 0.3551724137931035
+										}
+									],
+									"vertices": [
+										{
+											"x": 24.80689655172414,
+											"y": 154.85517241379313
+										},
+										{
+											"x": 24.80689655172414,
+											"y": 110.50344827586207
+										},
+										{
+											"x": 209.7310344827586,
+											"y": 110.50344827586207
+										},
+										{
+											"x": 209.7310344827586,
+											"y": 154.85517241379313
+										}
+									]
+								}
+							],
+							"categories": [
+								{
+									"name": "NAME"
+								}
+							],
+							"labelVersion": "default",
+							"mid": "20241210133049988-59",
+							"type": "rectangle",
+							"children": {
+								"TRANSCRIPTION_JOB": {
+									"text": "Rahul Singh"
+								}
+							}
+						}
+					]
+				}
+			},
+			"labelType": "DEFAULT",
+			"modelName": null
+		},
+		"pageResolutions": null,
+		"resolution": {
+			"height": 436,
+			"width": 701
+		},
+		"content": "https://storage.googleapis.com/label-backend-production/projects/cm3y215l20377013f6pj3buzx/assets/cm4i4numa0000356qzbs0mb3h/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20241211%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241211T070728Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=3fcfd0c1ddee7e1fef0f7c01f1c6ad9cd8f09cafd95df8801ec37b225cd6c5b18e5f121d978416452ba84b097082f3f01b755c65945a70b6f235a43cf1f3fa9fb5e31d7e6f767512c3c70ac5cb440a8bfd7a9fddba1064ea0a1b95b90a38acbee5efffa49eb959fa3ca92bdd4102c0361eff0b5be62a2bb6219dc25d7160fec5745d2334274c4e32d17e9355cc25d3889e8f0bb980103315258f066a855a53e6cf7e7ae74357ed57c3a86d8fc606fa09c65af6f12a0764b8cc1c6da052624351be3877c31097f783f8432d95e95ffeb951a02fb5a40c3476e58ced624b61aec443af48b8c618e34ec1cfbed35c27bc75abe8d3b45b39f49570f7be2eb13c4d1b",
+		"externalId": "Rahul_PAN.jpeg",
+		"id": "cm4i4numa0000356qzbs0mb3h",
+		"isProcessingAuthorized": true,
+		"jsonContent": "",
+		"jsonMetadata": {},
+		"skipped": false
+	}
+]

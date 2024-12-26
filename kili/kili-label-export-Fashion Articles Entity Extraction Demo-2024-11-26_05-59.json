@@ -1,0 +1,896 @@
+[
+    {
+        "content": "",
+        "externalId": "#0",
+        "id": "cm3y0t4dy02p2013xese72xle",
+        "isProcessingAuthorized": true,
+        "jsonContent": "https://storage.googleapis.com/label-public-staging/demo-projects/NER/jsonContent/%230.json",
+        "jsonMetadata": {
+            "Country": "US",
+            "Source": "ELLE",
+            "imageUrl": "https://storage.googleapis.com/label-public-staging/demo-projects/NER/imageMetadata/%230_image_metadata.jpeg",
+            "text": "Source: ELLE, Country: US",
+            "url": "https://www.elle.com/beauty/makeup-skin-care/g33433197/best-skin-care-sets/"
+        },
+        "latestLabel": {
+            "author": {
+                "email": "mailsyed078@gmail.com",
+                "firstname": "Mohsin",
+                "id": "cm3mk3wow208801bpdxsqf2j5",
+                "lastname": "Anwer",
+                "name": "Mohsin Anwer"
+            },
+            "createdAt": "2024-11-26T05:56:53.117Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": false,
+            "jsonResponse": {
+                "JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "0.123806035767286",
+                            "beginOffset": 378,
+                            "categories": [
+                                {
+                                    "name": "MAKEUP"
+                                }
+                            ],
+                            "children": {
+                                "CLASSIFICATION_JOB": {
+                                    "categories": [
+                                        {
+                                            "confidence": 100,
+                                            "name": "BLUSH"
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "vitamin C serum",
+                            "endId": "0.123806035767286",
+                            "endOffset": 393,
+                            "mid": "20241126110832293-10"
+                        },
+                        {
+                            "beginId": "0.9595783251073852",
+                            "beginOffset": 83,
+                            "categories": [
+                                {
+                                    "name": "SKINCARE"
+                                }
+                            ],
+                            "children": {
+                                "CLASSIFICATION_JOB_0": {
+                                    "categories": [
+                                        {
+                                            "confidence": 100,
+                                            "name": "SUNSCREEN"
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Renee Rouleau'",
+                            "endId": "0.9595783251073852",
+                            "endOffset": 97,
+                            "mid": "20241126112446401-22"
+                        },
+                        {
+                            "beginId": "0.48391307915406034",
+                            "beginOffset": 4,
+                            "categories": [
+                                {
+                                    "name": "SKINCARE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "La Mer",
+                            "endId": "0.48391307915406034",
+                            "endOffset": 10,
+                            "mid": "20241126112456817-23"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "0.5352121482846346",
+                            "beginOffset": 4,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Mini Miracle Broth\u2122",
+                            "endId": "0.5352121482846346",
+                            "endOffset": 23,
+                            "mid": "20241126111322640-18"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "",
+        "externalId": "#1",
+        "id": "cm3y0t4dz02p3013x2tac5bsk",
+        "isProcessingAuthorized": true,
+        "jsonContent": "https://storage.googleapis.com/label-public-staging/demo-projects/NER/jsonContent/%231.json",
+        "jsonMetadata": {
+            "Country": "FR",
+            "Source": "Glamour",
+            "imageUrl": "https://storage.googleapis.com/label-public-staging/demo-projects/NER/imageMetadata/%231_image_metadata.jpeg",
+            "text": "Source: Glamour, Country: FR",
+            "url": "https://www.glamour.com/story/rare-beauty-blush-review"
+        },
+        "latestLabel": {
+            "author": {
+                "email": "mailsyed078@gmail.com",
+                "firstname": "Mohsin",
+                "id": "cm3mk3wow208801bpdxsqf2j5",
+                "lastname": "Anwer",
+                "name": "Mohsin Anwer"
+            },
+            "createdAt": "2024-11-26T05:57:28.160Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": false,
+            "jsonResponse": {
+                "JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "0.39926253508577725",
+                            "beginOffset": 4,
+                            "categories": [
+                                {
+                                    "name": "MAKEUP"
+                                }
+                            ],
+                            "children": {
+                                "CLASSIFICATION_JOB": {
+                                    "categories": [
+                                        {
+                                            "confidence": 100,
+                                            "name": "BLUSH"
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Rare Beauty",
+                            "endId": "0.39926253508577725",
+                            "endOffset": 15,
+                            "mid": "20220726160628185-32338"
+                        },
+                        {
+                            "beginId": "0.6919912760399465",
+                            "beginOffset": 258,
+                            "categories": [
+                                {
+                                    "name": "MAKEUP"
+                                }
+                            ],
+                            "children": {
+                                "CLASSIFICATION_JOB": {
+                                    "categories": [
+                                        {
+                                            "confidence": 100,
+                                            "name": "BLUSH"
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Rare Beauty",
+                            "endId": "0.6919912760399465",
+                            "endOffset": 269,
+                            "mid": "20220726160644328-79467"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "",
+        "externalId": "#2",
+        "id": "cm3y0t4e002p4013xd4mc95c3",
+        "isProcessingAuthorized": true,
+        "jsonContent": "https://storage.googleapis.com/label-public-staging/demo-projects/NER/jsonContent/%232.json",
+        "jsonMetadata": {
+            "Country": "FR",
+            "Source": "Figaro Madame",
+            "imageUrl": "https://storage.googleapis.com/label-public-staging/demo-projects/NER/imageMetadata/%232_image_metadata.png",
+            "text": "Source: Figaro Madame, Country: FR",
+            "url": "https://madame.lefigaro.fr/style/news/24-cadeaux-a-moins-de-100-euros-pour-la-fete-des-meres-20220509"
+        },
+        "latestLabel": {
+            "author": {
+                "email": "mailsyed078@gmail.com",
+                "firstname": "Mohsin",
+                "id": "cm3mk3wow208801bpdxsqf2j5",
+                "lastname": "Anwer",
+                "name": "Mohsin Anwer"
+            },
+            "createdAt": "2024-11-26T05:58:22.727Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": false,
+            "jsonResponse": {
+                "JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "0.7461092882598696",
+                            "beginOffset": 502,
+                            "categories": [
+                                {
+                                    "name": "OTHER"
+                                }
+                            ],
+                            "children": {},
+                            "content": "combinaison sable",
+                            "endId": "0.7461092882598696",
+                            "endOffset": 519,
+                            "mid": "20220726160747280-67067"
+                        },
+                        {
+                            "beginId": "0.7461092882598696",
+                            "beginOffset": 334,
+                            "categories": [
+                                {
+                                    "name": "OTHER"
+                                }
+                            ],
+                            "children": {},
+                            "content": "robe",
+                            "endId": "0.7461092882598696",
+                            "endOffset": 338,
+                            "mid": "20220726160813461-76787"
+                        },
+                        {
+                            "beginId": "0.7461092882598696",
+                            "beginOffset": 302,
+                            "categories": [
+                                {
+                                    "name": "OTHER"
+                                }
+                            ],
+                            "children": {},
+                            "content": "bob pop",
+                            "endId": "0.7461092882598696",
+                            "endOffset": 309,
+                            "mid": "20220726160821192-7878"
+                        },
+                        {
+                            "beginId": "0.7461092882598696",
+                            "beginOffset": 469,
+                            "categories": [
+                                {
+                                    "name": "OTHER"
+                                }
+                            ],
+                            "children": {},
+                            "content": "bague en argent",
+                            "endId": "0.7461092882598696",
+                            "endOffset": 484,
+                            "mid": "20220726160850444-31464"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginId": "0.7461092882598696",
+                            "beginOffset": 402,
+                            "categories": [
+                                {
+                                    "name": "MANGO"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Mango",
+                            "endId": "0.7461092882598696",
+                            "endOffset": 407,
+                            "mid": "20220726160739074-12935"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "0.7461092882598696",
+                            "beginOffset": 520,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "H&M",
+                            "endId": "0.7461092882598696",
+                            "endOffset": 523,
+                            "mid": "20220726160743014-63886"
+                        },
+                        {
+                            "beginId": "0.7461092882598696",
+                            "beginOffset": 316,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Nat et Nin",
+                            "endId": "0.7461092882598696",
+                            "endOffset": 326,
+                            "mid": "20220726160832031-66943"
+                        },
+                        {
+                            "beginId": "0.7461092882598696",
+                            "beginOffset": 485,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Pandora",
+                            "endId": "0.7461092882598696",
+                            "endOffset": 492,
+                            "mid": "20220726160857699-69579"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RELATION_JOB": {
+                    "annotations": [
+                        {
+                            "categories": [
+                                {
+                                    "name": "PRODUCT_TO_BRAND"
+                                }
+                            ],
+                            "children": {},
+                            "endEntities": [
+                                {
+                                    "mid": "20220726160743014-63886"
+                                }
+                            ],
+                            "mid": "20220726160808609-36895",
+                            "startEntities": [
+                                {
+                                    "mid": "20220726160747280-67067"
+                                }
+                            ]
+                        },
+                        {
+                            "categories": [
+                                {
+                                    "name": "PRODUCT_TO_BRAND"
+                                }
+                            ],
+                            "children": {},
+                            "endEntities": [
+                                {
+                                    "mid": "20220726160832031-66943"
+                                }
+                            ],
+                            "mid": "20220726160838896-98004",
+                            "startEntities": [
+                                {
+                                    "mid": "20220726160821192-7878"
+                                }
+                            ]
+                        },
+                        {
+                            "categories": [
+                                {
+                                    "name": "PRODUCT_TO_BRAND"
+                                }
+                            ],
+                            "children": {},
+                            "endEntities": [
+                                {
+                                    "mid": "20220726160739074-12935"
+                                }
+                            ],
+                            "mid": "20220726160842576-74380",
+                            "startEntities": [
+                                {
+                                    "mid": "20220726160813461-76787"
+                                }
+                            ]
+                        },
+                        {
+                            "categories": [
+                                {
+                                    "name": "PRODUCT_TO_BRAND"
+                                }
+                            ],
+                            "children": {},
+                            "endEntities": [
+                                {
+                                    "mid": "20220726160857699-69579"
+                                }
+                            ],
+                            "mid": "20220726160904062-57540",
+                            "startEntities": [
+                                {
+                                    "mid": "20220726160850444-31464"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "",
+        "externalId": "#3",
+        "id": "cm3y0t4e102p5013x7nuaewt3",
+        "isProcessingAuthorized": true,
+        "jsonContent": "https://storage.googleapis.com/label-public-staging/demo-projects/NER/jsonContent/%233.json",
+        "jsonMetadata": {
+            "Country": "US",
+            "Source": "Vogue",
+            "imageUrl": "https://storage.googleapis.com/label-public-staging/demo-projects/NER/imageMetadata/%233_image_metadata.webp",
+            "text": "Source: Vogue, Country: US",
+            "url": "https://www.vogue.com/article/best-hair-care-products"
+        },
+        "latestLabel": {
+            "author": {
+                "email": "mailsyed078@gmail.com",
+                "firstname": "Mohsin",
+                "id": "cm3mk3wow208801bpdxsqf2j5",
+                "lastname": "Anwer",
+                "name": "Mohsin Anwer"
+            },
+            "createdAt": "2024-11-26T05:58:35.634Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": false,
+            "jsonResponse": {
+                "JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "0.8000503226757639",
+                            "beginOffset": 780,
+                            "categories": [
+                                {
+                                    "name": "HAIRCARE"
+                                }
+                            ],
+                            "children": {
+                                "CLASSIFICATION_JOB_1": {
+                                    "categories": [
+                                        {
+                                            "confidence": 100,
+                                            "name": "HAIRCARE_OTHER"
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "hair lotion",
+                            "endId": "0.8000503226757639",
+                            "endOffset": 791,
+                            "mid": "20220726160957598-5684"
+                        },
+                        {
+                            "beginId": "0.8000503226757639",
+                            "beginOffset": 796,
+                            "categories": [
+                                {
+                                    "name": "HAIRCARE"
+                                }
+                            ],
+                            "children": {
+                                "CLASSIFICATION_JOB_1": {
+                                    "categories": [
+                                        {
+                                            "confidence": 100,
+                                            "name": "HAIR_STYLING"
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "styling cream",
+                            "endId": "0.8000503226757639",
+                            "endOffset": 809,
+                            "mid": "20220726161045847-41902"
+                        },
+                        {
+                            "beginId": "0.8000503226757639",
+                            "beginOffset": 919,
+                            "categories": [
+                                {
+                                    "name": "HAIRCARE"
+                                }
+                            ],
+                            "children": {
+                                "CLASSIFICATION_JOB_1": {
+                                    "categories": [
+                                        {
+                                            "confidence": 100,
+                                            "name": "HAIRCARE_OTHER"
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "fragrance-free curl cream",
+                            "endId": "0.8000503226757639",
+                            "endOffset": 944,
+                            "mid": "20220726161157718-64119"
+                        },
+                        {
+                            "beginId": "0.7194146656159246",
+                            "beginOffset": 257,
+                            "categories": [
+                                {
+                                    "name": "HAIRCARE"
+                                }
+                            ],
+                            "children": {
+                                "CLASSIFICATION_JOB_1": {
+                                    "categories": [
+                                        {
+                                            "confidence": 100,
+                                            "name": "SHAMPOO"
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Full shampoo",
+                            "endId": "0.7194146656159246",
+                            "endOffset": 269,
+                            "mid": "20220726161244003-57641"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "0.8000503226757639",
+                            "beginOffset": 595,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "2 Girls With Curls",
+                            "endId": "0.8000503226757639",
+                            "endOffset": 613,
+                            "mid": "20220726160946915-75744"
+                        },
+                        {
+                            "beginId": "0.8000503226757639",
+                            "beginOffset": 912,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Ouai",
+                            "endId": "0.8000503226757639",
+                            "endOffset": 916,
+                            "mid": "20220726161151052-16875"
+                        },
+                        {
+                            "beginId": "0.7194146656159246",
+                            "beginOffset": 242,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Living Proof",
+                            "endId": "0.7194146656159246",
+                            "endOffset": 254,
+                            "mid": "20220726161237849-25814"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RELATION_JOB": {
+                    "annotations": [
+                        {
+                            "categories": [
+                                {
+                                    "name": "PRODUCT_TO_BRAND"
+                                }
+                            ],
+                            "children": {},
+                            "endEntities": [
+                                {
+                                    "mid": "20220726160946915-75744"
+                                }
+                            ],
+                            "mid": "20220726161213608-55651",
+                            "startEntities": [
+                                {
+                                    "mid": "20220726160957598-5684"
+                                }
+                            ]
+                        },
+                        {
+                            "categories": [
+                                {
+                                    "name": "PRODUCT_TO_BRAND"
+                                }
+                            ],
+                            "children": {},
+                            "endEntities": [
+                                {
+                                    "mid": "20220726160946915-75744"
+                                }
+                            ],
+                            "mid": "20220726161219134-78049",
+                            "startEntities": [
+                                {
+                                    "mid": "20220726161045847-41902"
+                                }
+                            ]
+                        },
+                        {
+                            "categories": [
+                                {
+                                    "name": "PRODUCT_TO_BRAND"
+                                }
+                            ],
+                            "children": {},
+                            "endEntities": [
+                                {
+                                    "mid": "20220726161151052-16875"
+                                }
+                            ],
+                            "mid": "20220726161222639-3943",
+                            "startEntities": [
+                                {
+                                    "mid": "20220726161157718-64119"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "",
+        "externalId": "#4",
+        "id": "cm3y0t4e202p6013xd9wib0nb",
+        "isProcessingAuthorized": true,
+        "jsonContent": "https://storage.googleapis.com/label-public-staging/demo-projects/NER/jsonContent/%234.json",
+        "jsonMetadata": {
+            "Country": "US",
+            "Source": "Vogue",
+            "imageUrl": "https://storage.googleapis.com/label-public-staging/demo-projects/NER/imageMetadata/%234_image_metadata.webp",
+            "text": "Source: Vogue, Country: US",
+            "url": "https://www.vogue.com/article/prime-day-beauty-deals-2022-4"
+        },
+        "latestLabel": {
+            "author": {
+                "email": "mailsyed078@gmail.com",
+                "firstname": "Mohsin",
+                "id": "cm3mk3wow208801bpdxsqf2j5",
+                "lastname": "Anwer",
+                "name": "Mohsin Anwer"
+            },
+            "createdAt": "2024-11-26T05:58:42.230Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": false,
+            "jsonResponse": {
+                "JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 104,
+                            "categories": [
+                                {
+                                    "name": "SKINCARE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "shaving foam",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 116,
+                            "mid": "20220726162925734-59119"
+                        },
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 118,
+                            "categories": [
+                                {
+                                    "name": "SKINCARE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "beard oil",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 127,
+                            "mid": "20220726162927849-7675"
+                        },
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 132,
+                            "categories": [
+                                {
+                                    "name": "SKINCARE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "exfoliating scrubs",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 150,
+                            "mid": "20220726162930248-62662"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 15,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Kiehl",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 20,
+                            "mid": "20220726162915636-83212"
+                        },
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 24,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Clinique",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 32,
+                            "mid": "20220726162918120-42420"
+                        },
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 37,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Tom Ford",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 45,
+                            "mid": "20220726162918850-63833"
+                        },
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 299,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Aesop",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 304,
+                            "mid": "20220726162944247-55134"
+                        },
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 306,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "La Mer",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 312,
+                            "mid": "20220726162945325-70112"
+                        },
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 317,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Burt\u2019s Bees",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 328,
+                            "mid": "20220726162950155-54244"
+                        },
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 343,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Fenty Skin",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 353,
+                            "mid": "20220726162956356-13995"
+                        },
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 358,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Pharrell\u2019s Human Race",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 379,
+                            "mid": "20220726163000221-26402"
+                        },
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 587,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Bulldog",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 594,
+                            "mid": "20220726163003212-86741"
+                        },
+                        {
+                            "beginId": "0.27455797271490645",
+                            "beginOffset": 599,
+                            "categories": [
+                                {
+                                    "name": "BRAND_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Anthony",
+                            "endId": "0.27455797271490645",
+                            "endOffset": 606,
+                            "mid": "20220726163008715-5594"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    }
+]

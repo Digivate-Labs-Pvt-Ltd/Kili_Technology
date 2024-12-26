@@ -1,0 +1,65 @@
+[
+  {
+    "textGcsUri": "gs://cloud-ai-platform-6d977ae9-f930-4a08-ad7e-5f69193d3b06/dataset-8771407336896987136/preprocessed_example/1837106255806595072/6812081344550618587/text.txt",
+    "languageCode": "",
+    "textSegmentAnnotations": [
+      {
+        "displayName": "addressOfProperty",
+        "startOffset": "644",
+        "endOffset": "706",
+        "annotationResourceLabels": {
+          "aiplatform.googleapis.com/annotation_set_name": "1834408707107061760"
+        }
+      },
+      {
+        "displayName": "tenantName",
+        "startOffset": "1111",
+        "endOffset": "1136",
+        "annotationResourceLabels": {
+          "aiplatform.googleapis.com/annotation_set_name": "1834408707107061760"
+        }
+      },
+      {
+        "displayName": "ownerName",
+        "startOffset": "600",
+        "endOffset": "614",
+        "annotationResourceLabels": {
+          "aiplatform.googleapis.com/annotation_set_name": "1834408707107061760"
+        }
+      },
+      {
+        "displayName": "agreementDate",
+        "startOffset": "213",
+        "endOffset": "224",
+        "annotationResourceLabels": {
+          "aiplatform.googleapis.com/annotation_set_name": "1834408707107061760"
+        }
+      },
+      {
+        "displayName": "tenantAddress",
+        "startOffset": "1149",
+        "endOffset": "1202",
+        "annotationResourceLabels": {
+          "aiplatform.googleapis.com/annotation_set_name": "1834408707107061760"
+        }
+      },
+      {
+        "displayName": "agreementTenure",
+        "startOffset": "5869",
+        "endOffset": "5879",
+        "annotationResourceLabels": {
+          "aiplatform.googleapis.com/annotation_set_name": "1834408707107061760"
+        }
+      },
+      {
+        "displayName": "ownerAddress",
+        "startOffset": "1803",
+        "endOffset": "1854",
+        "annotationResourceLabels": {
+          "aiplatform.googleapis.com/annotation_set_name": "1834408707107061760"
+        }
+      }
+    ],
+    "dataItemResourceLabels": {}
+  }
+]

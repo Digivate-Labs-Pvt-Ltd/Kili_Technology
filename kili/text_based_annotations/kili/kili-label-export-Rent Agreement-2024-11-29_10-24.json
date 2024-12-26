@@ -1,0 +1,143 @@
+[
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/cm3pfj8my0pyc017u29b0df1b/assets/cm42k6r7t0000356qko03tsme/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20241129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241129T102453Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=7a7f156e4f0f9b93112169d000a309d1e1594ca6665a5e28d566efad1548ff47277803f307d174f55d63777846fff8d4da7ea5b12608ffb4e0092450a9b01a3c94fc6518587bbe621eeddf7cf2450ba8f23ccdb9d01c59b6dcdab114d8dc983a041ab24766251595142a389823cb79975d2d19f5eda39d0201ef111d75a1b3b68ac16139def8322b7904b1a2f93ac77e22e4299e4abf3c1ee3d3a4156a5f8beac1227652c5ec6b6d5c371a39a58c9561672e575910bd1d5edfa7be667d600234ce65d6d6bb9efdec3e80154b9166160dafc647a7120d8868df56ff48feb5343145b68ef0ecea35588f48d3e20f21865ac5c6414a4ef6374a7e2b49dd1af42c6d",
+        "externalId": "set1 rent  digtized.txt",
+        "id": "cm42k6r7t0000356qko03tsme",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "mailsyed078@gmail.com",
+                "firstname": "Mohsin",
+                "id": "cm3mk3wow208801bpdxsqf2j5",
+                "lastname": "Anwer",
+                "name": "Mohsin Anwer"
+            },
+            "createdAt": "2024-11-29T10:09:11.771Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": false,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 600,
+                            "categories": [
+                                {
+                                    "name": "TENANT_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Mr. Ravi Gupta",
+                            "endId": "main/[0]",
+                            "endOffset": 614,
+                            "mid": "20241129153408486-2"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 949,
+                            "categories": [
+                                {
+                                    "name": "OWNER_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Mr. SwyamPrakash Chauhan,",
+                            "endId": "main/[0]",
+                            "endOffset": 974,
+                            "mid": "20241129153519932-6"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 644,
+                            "categories": [
+                                {
+                                    "name": "TENANT_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Plot No 6, 2nd Floor,Street no 37/1 Acharyapuri Gurgaon 122001.",
+                            "endId": "main/[0]",
+                            "endOffset": 707,
+                            "mid": "20241129153458968-4"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1019,
+                            "categories": [
+                                {
+                                    "name": "OWNER_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Plotno 29 Nandlal Tola Garkha Road Chapra Saran Bihar 841301",
+                            "endId": "main/[0]",
+                            "endOffset": 1079,
+                            "mid": "20241129153533947-8"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 103,
+                            "categories": [
+                                {
+                                    "name": "PROPERTY_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "H.No/Floor: Plot6/sfCity/Village: AcharyapuriRavi GuptaSector/Ward: NaDistrict: Gurugram",
+                            "endId": "main/[0]",
+                            "endOffset": 191,
+                            "mid": "20241129153832672-14"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_1": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 214,
+                            "categories": [
+                                {
+                                    "name": "DATE_OF_AGREEMENT"
+                                }
+                            ],
+                            "children": {},
+                            "content": "24/08/2022Stamp",
+                            "endId": "main/[0]",
+                            "endOffset": 229,
+                            "mid": "20241129153811377-12"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_2": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 2140,
+                            "categories": [
+                                {
+                                    "name": "TENURE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "11",
+                            "endId": "main/[0]",
+                            "endOffset": 2142,
+                            "mid": "20241129153631401-10"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    }
+]

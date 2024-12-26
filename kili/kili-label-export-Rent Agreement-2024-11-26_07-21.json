@@ -1,0 +1,537 @@
+[
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/cm3pfj8my0pyc017u29b0df1b/assets/cm3pfjqqv0004356poribeqw8/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20241126%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241126T072124Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=5288c1a431d4291954067e1a0b67f98f8ae3ef38b436b2ddd9d8f7af47168386a045d00b89a79852456c5aea5520aa8202f54c57d124b55db5a9eb52cb5c672cc51136776a1176571d8f52b0f02b66a15cd9038de43a67967f431bf9f9ff40a0d10d25081dd684748736e2c20f6f80cd291c99b6a8de56961d1fd824370a28ed0eb71c0def15e26fca94fe539c05fcbf385ce0f5452fd5d105680b745ac583d5817a849fe62265ecf5a0b6b87e53395d858711ce80ef787ec244f46e32d8f840341d199cd7beee2ffb0909ffbf5b32f8df2843d2a87e68a2d41b5e553f278729a0dabca54202eebe3143d608986cdbe8819df43a6a1a49045a68ba501000af63",
+        "externalId": "AAYAN TRANSPORT RENT AGREEMENT_page-0002_compressed_organized_T0600009775852.pdf.txt",
+        "id": "cm3pfjqqv0004356poribeqw8",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "mailsyed078@gmail.com",
+                "firstname": "Mohsin",
+                "id": "cm3mk3wow208801bpdxsqf2j5",
+                "lastname": "Anwer",
+                "name": "Mohsin Anwer"
+            },
+            "createdAt": "2024-11-26T05:20:45.568Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": false,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 380,
+                            "categories": [
+                                {
+                                    "name": "TENANT_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Rasid Khan",
+                            "endId": "main/[0]",
+                            "endOffset": 390,
+                            "mid": "20241120113412576-24"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 202,
+                            "categories": [
+                                {
+                                    "name": "OWNER_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Jamila",
+                            "endId": "main/[0]",
+                            "endOffset": 208,
+                            "mid": "20241120113425515-26"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 540,
+                            "categories": [
+                                {
+                                    "name": "TENANT_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "RENT AGREEMENT FOR AAYAN TRANSPORTS LALITA",
+                            "endId": "main/[0]",
+                            "endOffset": 582,
+                            "mid": "20241120131041623-9"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 391,
+                            "categories": [
+                                {
+                                    "name": "TENANT_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "H.No/Floor : Na Sector / Ward : 36 LandMark : Na City / Village : Zakhopur District : Faridabad State : Haryana",
+                            "endId": "main/[0]",
+                            "endOffset": 502,
+                            "mid": "20241120113454459-30"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 210,
+                            "categories": [
+                                {
+                                    "name": "OWNER_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "H.No/Floor : Na Sector / Ward : 36 LandMark : Na City / Village : Zakhopur District : Faridabad State : Haryana",
+                            "endId": "main/[0]",
+                            "endOffset": 321,
+                            "mid": "20241120113510587-32"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1433,
+                            "categories": [
+                                {
+                                    "name": "PROPERTY_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "PLOT NO - 380 , NEAR DELHI WALI MASJID , SECTOR - 48 , VILLAGE BADKHAL , FARIDABAD , HARYANA - 121001 .",
+                            "endId": "main/[0]",
+                            "endOffset": 1536,
+                            "mid": "20241120113717523-35"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_1": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 799,
+                            "categories": [
+                                {
+                                    "name": "DATE_OF_AGREEMENT"
+                                }
+                            ],
+                            "children": {},
+                            "content": "09TH , day of NOVEMBER , 2022",
+                            "endId": "main/[0]",
+                            "endOffset": 828,
+                            "mid": "20241120113810643-37"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_2": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1832,
+                            "categories": [
+                                {
+                                    "name": "TENURE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "11 MONTHS",
+                            "endId": "main/[0]",
+                            "endOffset": 1841,
+                            "mid": "20241120113846182-39"
+                        }
+                    ]
+                }
+            },
+            "labelType": "REVIEW",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/cm3pfj8my0pyc017u29b0df1b/assets/cm3pfjqqw0005356pcdbutafc/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20241126%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241126T072124Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=5bbfa43be0abf43e2c58bd1ddd01f25c9050f806c117740045b7a55454f100c10038c3fa644c76e66770a4679066faee0a3326a4f92ca695826bc75d16db8ac6ae61c484301bd929d48cd9d862e27618e1356c62b2b98589b91aab3bffd2e5194ff6074ef7c628f436c4fa976ea3d1199f8878e3483e5b4a466a9fbb8fe3388bffbfa63422ca39043c20c420eb7ae1e23a1cbd9414ee00ae458af5f8518a046070003cb1a50220f9d0191ed76b60250c076e50f3a6f26ae44ed2f44e6839070e028fab3f614405aaa7d59f409f45308aaa2c191931c2b6cea24286d64d24a4c3cda85fcd142c556994e73e4f825d205ecf0971adb4a583e587ae70c8f50e4ad7",
+        "externalId": "add rental agreement_T2900018041883.pdf.txt",
+        "id": "cm3pfjqqw0005356pcdbutafc",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "mailsyed078@gmail.com",
+                "firstname": "Mohsin",
+                "id": "cm3mk3wow208801bpdxsqf2j5",
+                "lastname": "Anwer",
+                "name": "Mohsin Anwer"
+            },
+            "createdAt": "2024-11-20T06:51:50.573Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1093,
+                            "categories": [
+                                {
+                                    "name": "OWNER_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Smt.ANITHA.K",
+                            "endId": "main/[0]",
+                            "endOffset": 1105,
+                            "mid": "20241120114055507-43"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1305,
+                            "categories": [
+                                {
+                                    "name": "TENANT_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Mr.RAGHU.D",
+                            "endId": "main/[0]",
+                            "endOffset": 1315,
+                            "mid": "20241120114144964-49"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1305,
+                            "categories": [
+                                {
+                                    "name": "TENANT_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Mr.RAGHU.D ,",
+                            "endId": "main/[0]",
+                            "endOffset": 1317,
+                            "mid": "20241120122030978-1"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 987,
+                            "categories": [
+                                {
+                                    "name": "OWNER_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Rent",
+                            "endId": "main/[0]",
+                            "endOffset": 991,
+                            "mid": "20241120122114853-4"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1169,
+                            "categories": [
+                                {
+                                    "name": "OWNER_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "No.244 , 10th Main Road , 50 Feet Road , Nagendra Block , Bangalore - 560050",
+                            "endId": "main/[0]",
+                            "endOffset": 1245,
+                            "mid": "20241120114108228-45"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1340,
+                            "categories": [
+                                {
+                                    "name": "TENANT_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "S / o Devaraju , Residing at : No.43 , 10th Cross , Ullal Main Road , Jnanajyothinagara , Bangalore - 560056",
+                            "endId": "main/[0]",
+                            "endOffset": 1448,
+                            "mid": "20241120114156267-51"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 2326,
+                            "categories": [
+                                {
+                                    "name": "PROPERTY_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Sy No.3 / 2 , Site No.2387 / A , Giddadakoneenahalli Village , Yeshwanthapura Hobli , Bangalore North Taluk , Bangalore - 560072.",
+                            "endId": "main/[0]",
+                            "endOffset": 2455,
+                            "mid": "20241120114235356-53"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_1": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1019,
+                            "categories": [
+                                {
+                                    "name": "DATE_OF_AGREEMENT"
+                                }
+                            ],
+                            "children": {},
+                            "content": "1st day of December Two Thousand Twenty Two ( 01.12.2022 )",
+                            "endId": "main/[0]",
+                            "endOffset": 1077,
+                            "mid": "20241120114036819-41"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1329,
+                            "categories": [
+                                {
+                                    "name": "DATE_OF_AGREEMENT"
+                                }
+                            ],
+                            "children": {},
+                            "content": "36 years",
+                            "endId": "main/[0]",
+                            "endOffset": 1337,
+                            "mid": "20241120122142879-7"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_2": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 3016,
+                            "categories": [
+                                {
+                                    "name": "TENURE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "11 ( Eleven ) months",
+                            "endId": "main/[0]",
+                            "endOffset": 3036,
+                            "mid": "20241120114251956-55"
+                        }
+                    ]
+                }
+            },
+            "labelType": "REVIEW",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/cm3pfj8my0pyc017u29b0df1b/assets/cm3pfjqqw0006356pjznhlv8c/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20241126%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241126T072124Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=58212a81e6c91f7c2d0872526412039f1f13f9f3005a5926cdc931a2c1a7725b7bea5afc04d4f9e4feda34421fe663fc262c33d6acf6620638a58ddd649da340b1ffc5b17e8f7d7ec96e87c0219406087c517fdc5991d287d59a2f76d724e77c3fb66232fd92f8b0d36c8d1dcc50165618b2f85c1cea0bafb203297ea650731dbff9072895bf53b283e1faf12ed726add9f8fb1f77cf4b96c086b92d5c36bc3569bc7138fdb5a43379ffbf993b23075d43d861a6158046c100b7b944bd7c7793bafa9151df8bad98c08ff77a97aad91703f808cabcaa4a6b04e89bfc1eb21f4e01e7dc4cfd0dc734072324a113f463c79a284176b451ce94c3e4cf8078569a4b",
+        "externalId": "Agreement_T2700030992812.pdf.txt",
+        "id": "cm3pfjqqw0006356pjznhlv8c",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "kaushik.das220797@gmail.com",
+                "firstname": "Kaushik",
+                "id": "cm3mkdjzy3t4w01bp8wkm6i1y",
+                "lastname": "Das",
+                "name": "Kaushik Das"
+            },
+            "createdAt": "2024-11-20T07:42:51.999Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": false,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 333,
+                            "categories": [
+                                {
+                                    "name": "OWNER_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Mr.Gada Prabhakar Gundappa,",
+                            "endId": "main/[0]",
+                            "endOffset": 360,
+                            "mid": "20241120114517892-59"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 597,
+                            "categories": [
+                                {
+                                    "name": "OWNER_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Mr.\nSarsambi Prashant Nagnath",
+                            "endId": "main/[0]",
+                            "endOffset": 626,
+                            "mid": "20241120114651185-64"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 996,
+                            "categories": [
+                                {
+                                    "name": "TENANT_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Creations infra india pvt ltd Through Its Director Thesu Ethiraj Giridharraj",
+                            "endId": "main/[0]",
+                            "endOffset": 1072,
+                            "mid": "20241120114722306-68"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1314,
+                            "categories": [
+                                {
+                                    "name": "TENANT_NAME"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Mr.\nGardas Kumar Somnath",
+                            "endId": "main/[0]",
+                            "endOffset": 1338,
+                            "mid": "20241120114754994-72"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_0": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 437,
+                            "categories": [
+                                {
+                                    "name": "OWNER_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Flat No: 27/F, Building Name: Gurumaharaj, Block Sector: Rupabhawani Road, Road: Mantri Chandak, Solapur North, Solapur, Maharashtra, 413002",
+                            "endId": "main/[0]",
+                            "endOffset": 577,
+                            "mid": "20241120114531451-61"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 684,
+                            "categories": [
+                                {
+                                    "name": "OWNER_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Flat No: 218/60, Block Sector: Ahilyabai Shalejaval, Road: Adarsh Nagar, Solapur, Solapur, Maharashtra, 413006",
+                            "endId": "main/[0]",
+                            "endOffset": 794,
+                            "mid": "20241120114708572-66"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1176,
+                            "categories": [
+                                {
+                                    "name": "TENANT_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Flat No: 142, Block Sector: Purasawalkamchennai, Road: Na, Vellala Street, Chennai, Chennai, Tamil nadu, 600084",
+                            "endId": "main/[0]",
+                            "endOffset": 1287,
+                            "mid": "20241120114735308-70"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 1396,
+                            "categories": [
+                                {
+                                    "name": "TENANT_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Flat No: 321/61, Block Sector: Muslim Pachha Peth, Road: Behind Kalika Mandir, Solapur, Solapur, Maharashtra, 413005",
+                            "endId": "main/[0]",
+                            "endOffset": 1512,
+                            "mid": "20241120114802541-74"
+                        },
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 7947,
+                            "categories": [
+                                {
+                                    "name": "PROPERTY_ADDRESS"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Office No. Plot No.5, Built-up :1.25 Square Feet, situated on the Booth No. 146 Floor of a Building known as 'Maragu Vihar' standing on the plot of land bearing Survey Number :10389,Road: New Paccha Peth, Ashok Chowk,, Location: Solapur-413005",
+                            "endId": "main/[0]",
+                            "endOffset": 8190,
+                            "mid": "20241120114908679-79"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_1": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 295,
+                            "categories": [
+                                {
+                                    "name": "DATE_OF_AGREEMENT"
+                                }
+                            ],
+                            "children": {},
+                            "content": "02/12/2022",
+                            "endId": "main/[0]",
+                            "endOffset": 305,
+                            "mid": "20241120114458141-57"
+                        }
+                    ]
+                },
+                "NAMED_ENTITIES_RECOGNITION_JOB_2": {
+                    "annotations": [
+                        {
+                            "beginId": "main/[0]",
+                            "beginOffset": 2276,
+                            "categories": [
+                                {
+                                    "name": "TENURE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "11 Months",
+                            "endId": "main/[0]",
+                            "endOffset": 2285,
+                            "mid": "20241120114817619-76"
+                        }
+                    ]
+                }
+            },
+            "labelType": "REVIEW",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    }
+]

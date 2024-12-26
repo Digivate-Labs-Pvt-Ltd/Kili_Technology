@@ -1,0 +1,392 @@
+[
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/cm3y215l20377013f6pj3buzx/assets/cm3ztcrua0000356qyzdx4f7d/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20241127%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241127T115725Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=674c29fd7f4fb87e2aee748dd9c16f701513096c7d1afd0a7e1181a511a4be4025478602b53996af438f2b92804b7af3b6e65eddfd7f736a74121316b7a323d35e3945ea9321f86d1591cc49938d3c25c712d23ebb1d0bf7096b242cf544b09a9f307a2508449f422f00d7c6132d68a4487b2663f159dc06a173f06e957e66c65f1c527df064a2a5c748134e43e71c7b491448e8c78f972677f40ae0d77573cfb0106aeba720d9bff1201accf37d96f90f199c26e7502cc8dca3bef06e7678c4d541ac9b64543c42ae043fa4f568194ec03ebc5228b22773794d988eb06350ff5742e738e371a210f38a4a31d842279dadb400456f1616dbdc259b43d3e7fcf9",
+        "externalId": "PAN3.jpeg",
+        "id": "cm3ztcrua0000356qyzdx4f7d",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "mailsyed078@gmail.com",
+                "firstname": "Mohsin",
+                "id": "cm3mk3wow208801bpdxsqf2j5",
+                "lastname": "Anwer",
+                "name": "Mohsin Anwer"
+            },
+            "createdAt": "2024-11-27T11:44:32.201Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": false,
+            "jsonResponse": {
+                "JOB_0": {
+                    "annotations": [
+                        {
+                            "boundingPoly": [
+                                {
+                                    "normalizedVertices": [
+                                        {
+                                            "x": 0.052507071659482756,
+                                            "y": 0.42586206896551726
+                                        },
+                                        {
+                                            "x": 0.052507071659482756,
+                                            "y": 0.33965517241379317
+                                        },
+                                        {
+                                            "x": 0.5029010641163792,
+                                            "y": 0.33965517241379317
+                                        },
+                                        {
+                                            "x": 0.5029010641163792,
+                                            "y": 0.42586206896551726
+                                        }
+                                    ],
+                                    "vertices": [
+                                        {
+                                            "x": 53.76724137931034,
+                                            "y": 295.1224137931035
+                                        },
+                                        {
+                                            "x": 53.76724137931034,
+                                            "y": 235.38103448275868
+                                        },
+                                        {
+                                            "x": 514.9706896551724,
+                                            "y": 235.38103448275868
+                                        },
+                                        {
+                                            "x": 514.9706896551724,
+                                            "y": 295.1224137931035
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "name": "NAME"
+                                }
+                            ],
+                            "children": {
+                                "JOB_1": {
+                                    "text": "ARUNA SUNEEL RANAUT"
+                                }
+                            },
+                            "labelVersion": "default",
+                            "mid": "20241127171146462-4",
+                            "type": "rectangle"
+                        },
+                        {
+                            "boundingPoly": [
+                                {
+                                    "normalizedVertices": [
+                                        {
+                                            "x": 0.04900660021551724,
+                                            "y": 0.5189655172413794
+                                        },
+                                        {
+                                            "x": 0.04900660021551724,
+                                            "y": 0.4379310344827586
+                                        },
+                                        {
+                                            "x": 0.5915796740301724,
+                                            "y": 0.4379310344827586
+                                        },
+                                        {
+                                            "x": 0.5915796740301724,
+                                            "y": 0.5189655172413794
+                                        }
+                                    ],
+                                    "vertices": [
+                                        {
+                                            "x": 50.182758620689654,
+                                            "y": 359.64310344827595
+                                        },
+                                        {
+                                            "x": 50.182758620689654,
+                                            "y": 303.4862068965517
+                                        },
+                                        {
+                                            "x": 605.7775862068966,
+                                            "y": 303.4862068965517
+                                        },
+                                        {
+                                            "x": 605.7775862068966,
+                                            "y": 359.64310344827595
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "name": "FATHERS_NAME"
+                                }
+                            ],
+                            "children": {
+                                "JOB_2": {
+                                    "text": "BISHAMBER SINGH PATHANIA"
+                                }
+                            },
+                            "labelVersion": "default",
+                            "mid": "20241127171155371-6",
+                            "type": "rectangle"
+                        },
+                        {
+                            "boundingPoly": [
+                                {
+                                    "normalizedVertices": [
+                                        {
+                                            "x": 0.04433930495689655,
+                                            "y": 0.7206896551724138
+                                        },
+                                        {
+                                            "x": 0.04433930495689655,
+                                            "y": 0.6396551724137931
+                                        },
+                                        {
+                                            "x": 0.38155138739224137,
+                                            "y": 0.6396551724137931
+                                        },
+                                        {
+                                            "x": 0.38155138739224137,
+                                            "y": 0.7206896551724138
+                                        }
+                                    ],
+                                    "vertices": [
+                                        {
+                                            "x": 45.40344827586207,
+                                            "y": 499.43793103448274
+                                        },
+                                        {
+                                            "x": 45.40344827586207,
+                                            "y": 443.2810344827586
+                                        },
+                                        {
+                                            "x": 390.70862068965516,
+                                            "y": 443.2810344827586
+                                        },
+                                        {
+                                            "x": 390.70862068965516,
+                                            "y": 499.43793103448274
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "name": "PAN_NUMBER"
+                                }
+                            ],
+                            "children": {},
+                            "labelVersion": "default",
+                            "mid": "20241127171205814-8",
+                            "type": "rectangle"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": {
+            "height": 693,
+            "width": 1024
+        },
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/cm3y215l20377013f6pj3buzx/assets/cm3ztcrub0001356qywjmhb0w/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20241127%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241127T115725Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=4eea5238397842550dadbc867d792afbaed6dd87807b0d27b1ce168afbf7b827b0be3ac6388de763bc99e22f4522a80825b67632dc6b19762854aea22dfd6d0b9e80cd3008e852663b785d9f6db4d3a66daa4602214790a7eede2ccab20a4c5430699fe44c062b2fbcefea58a5f5346768b8835cb9e9a6d26420aca7cfb72272dfadb57a6c092d2f60ab50fac533074434e2168aa9f0900b53b239e2446ac10b9ce926c9c6a4c91b0d8ad97d70b659b12de50e817ae41f0fcd983be2ce84f3304111daf9ae0468d20f2f159816f998c1c5136ad7d41afe84f819f2be11e3d4e216c2cbbbb0b15209e6774941872b65847f419dbee52970e386a08ace0b885f33",
+        "externalId": "PAN4.jpeg",
+        "id": "cm3ztcrub0001356qywjmhb0w",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "mailsyed078@gmail.com",
+                "firstname": "Mohsin",
+                "id": "cm3mk3wow208801bpdxsqf2j5",
+                "lastname": "Anwer",
+                "name": "Mohsin Anwer"
+            },
+            "createdAt": "2024-11-27T11:46:01.975Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": false,
+            "jsonResponse": {
+                "JOB_0": {
+                    "annotations": [
+                        {
+                            "boundingPoly": [
+                                {
+                                    "normalizedVertices": [
+                                        {
+                                            "x": 0.022855603448275863,
+                                            "y": 0.36724137931034484
+                                        },
+                                        {
+                                            "x": 0.022855603448275863,
+                                            "y": 0.27586206896551724
+                                        },
+                                        {
+                                            "x": 0.3145366379310345,
+                                            "y": 0.27586206896551724
+                                        },
+                                        {
+                                            "x": 0.3145366379310345,
+                                            "y": 0.36724137931034484
+                                        }
+                                    ],
+                                    "vertices": [
+                                        {
+                                            "x": 29.255172413793105,
+                                            "y": 296.7310344827586
+                                        },
+                                        {
+                                            "x": 29.255172413793105,
+                                            "y": 222.89655172413794
+                                        },
+                                        {
+                                            "x": 402.60689655172416,
+                                            "y": 222.89655172413794
+                                        },
+                                        {
+                                            "x": 402.60689655172416,
+                                            "y": 296.7310344827586
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "name": "NAME"
+                                }
+                            ],
+                            "children": {
+                                "JOB_1": {
+                                    "text": "SANJIB KALITA"
+                                }
+                            },
+                            "labelVersion": "default",
+                            "mid": "20241127171435554-17",
+                            "type": "rectangle"
+                        },
+                        {
+                            "boundingPoly": [
+                                {
+                                    "normalizedVertices": [
+                                        {
+                                            "x": 0.018502155172413794,
+                                            "y": 0.4896551724137931
+                                        },
+                                        {
+                                            "x": 0.018502155172413794,
+                                            "y": 0.4
+                                        },
+                                        {
+                                            "x": 0.3950754310344828,
+                                            "y": 0.4
+                                        },
+                                        {
+                                            "x": 0.3950754310344828,
+                                            "y": 0.4896551724137931
+                                        }
+                                    ],
+                                    "vertices": [
+                                        {
+                                            "x": 23.682758620689658,
+                                            "y": 395.6413793103448
+                                        },
+                                        {
+                                            "x": 23.682758620689658,
+                                            "y": 323.20000000000005
+                                        },
+                                        {
+                                            "x": 505.696551724138,
+                                            "y": 323.20000000000005
+                                        },
+                                        {
+                                            "x": 505.696551724138,
+                                            "y": 395.6413793103448
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "name": "FATHERS_NAME"
+                                }
+                            ],
+                            "children": {
+                                "JOB_2": {
+                                    "text": "BAIKUNTHA KALITA"
+                                }
+                            },
+                            "labelVersion": "default",
+                            "mid": "20241127171454537-21",
+                            "type": "rectangle"
+                        },
+                        {
+                            "boundingPoly": [
+                                {
+                                    "normalizedVertices": [
+                                        {
+                                            "x": 0.0250323275862069,
+                                            "y": 0.7655172413793103
+                                        },
+                                        {
+                                            "x": 0.0250323275862069,
+                                            "y": 0.6689655172413793
+                                        },
+                                        {
+                                            "x": 0.3711314655172414,
+                                            "y": 0.6689655172413793
+                                        },
+                                        {
+                                            "x": 0.3711314655172414,
+                                            "y": 0.7655172413793103
+                                        }
+                                    ],
+                                    "vertices": [
+                                        {
+                                            "x": 32.04137931034483,
+                                            "y": 618.5379310344828
+                                        },
+                                        {
+                                            "x": 32.04137931034483,
+                                            "y": 540.5241379310345
+                                        },
+                                        {
+                                            "x": 475.048275862069,
+                                            "y": 540.5241379310345
+                                        },
+                                        {
+                                            "x": 475.048275862069,
+                                            "y": 618.5379310344828
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "name": "PAN_NUMBER"
+                                }
+                            ],
+                            "children": {},
+                            "labelVersion": "default",
+                            "mid": "20241127171555145-28",
+                            "type": "rectangle"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": {
+            "height": 808,
+            "width": 1280
+        },
+        "skipped": false
+    }
+]

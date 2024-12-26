@@ -1,0 +1,290 @@
+[
+    {
+        "content": "https://storage.googleapis.com/label-public-staging/demo-projects/ID_OCR/Carte_identite%CC%81_e%CC%81lectronique_franc%CC%A7aise_(2021%2C_recto).png",
+        "externalId": "scan 1",
+        "id": "cm3y215lp0378013f5b1y9mk6",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "mailsyed078@gmail.com",
+                "firstname": "Mohsin",
+                "id": "cm3mk3wow208801bpdxsqf2j5",
+                "lastname": "Anwer",
+                "name": "Mohsin Anwer"
+            },
+            "createdAt": "2024-11-26T06:07:45.159Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": false,
+            "jsonResponse": {
+                "JOB_0": {
+                    "annotations": [
+                        {
+                            "boundingPoly": [
+                                {
+                                    "normalizedVertices": [
+                                        {
+                                            "x": 0.378391447244154,
+                                            "y": 0.2970873786407766
+                                        },
+                                        {
+                                            "x": 0.378391447244154,
+                                            "y": 0.23106796116504846
+                                        },
+                                        {
+                                            "x": 0.5490385705111255,
+                                            "y": 0.23106796116504846
+                                        },
+                                        {
+                                            "x": 0.5490385705111255,
+                                            "y": 0.2970873786407766
+                                        }
+                                    ],
+                                    "vertices": [
+                                        {
+                                            "x": 1750.4388349514566,
+                                            "y": 875.2194174757279
+                                        },
+                                        {
+                                            "x": 1750.4388349514566,
+                                            "y": 680.7262135922327
+                                        },
+                                        {
+                                            "x": 2539.8524271844663,
+                                            "y": 680.7262135922327
+                                        },
+                                        {
+                                            "x": 2539.8524271844663,
+                                            "y": 875.2194174757279
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "name": "NAME"
+                                }
+                            ],
+                            "children": {
+                                "JOB_1": {
+                                    "text": "PP MARTIN"
+                                }
+                            },
+                            "labelVersion": "default",
+                            "mid": "20241126113717571-25",
+                            "type": "rectangle"
+                        },
+                        {
+                            "boundingPoly": [
+                                {
+                                    "normalizedVertices": [
+                                        {
+                                            "x": 0.39075718081422445,
+                                            "y": 0.4233009708737864
+                                        },
+                                        {
+                                            "x": 0.39075718081422445,
+                                            "y": 0.36310679611650476
+                                        },
+                                        {
+                                            "x": 0.7110296802790477,
+                                            "y": 0.36310679611650476
+                                        },
+                                        {
+                                            "x": 0.7110296802790477,
+                                            "y": 0.4233009708737864
+                                        }
+                                    ],
+                                    "vertices": [
+                                        {
+                                            "x": 1807.6427184466022,
+                                            "y": 1247.0446601941746
+                                        },
+                                        {
+                                            "x": 1807.6427184466022,
+                                            "y": 1069.712621359223
+                                        },
+                                        {
+                                            "x": 3289.2233009708743,
+                                            "y": 1069.712621359223
+                                        },
+                                        {
+                                            "x": 3289.2233009708743,
+                                            "y": 1247.0446601941746
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "name": "SURNAME"
+                                }
+                            ],
+                            "children": {
+                                "JOB_2": {
+                                    "text": "Ma\u00eblys - Ga\u00eblle , Marie CHO LT"
+                                }
+                            },
+                            "labelVersion": "default",
+                            "mid": "20241126113726241-27",
+                            "type": "rectangle"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": {
+            "height": 2946,
+            "width": 4626
+        },
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-public-staging/OCR/Dutch_identity_card_front_specimen_issued_9_March_2014.jpg",
+        "externalId": "scan 2",
+        "id": "cm3y215lp0379013f6nec2b1g",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "mailsyed078@gmail.com",
+                "firstname": "Mohsin",
+                "id": "cm3mk3wow208801bpdxsqf2j5",
+                "lastname": "Anwer",
+                "name": "Mohsin Anwer"
+            },
+            "createdAt": "2024-11-26T06:08:03.552Z",
+            "isLatestLabelForUser": true,
+            "isSentBackToQueue": false,
+            "jsonResponse": {
+                "JOB_0": {
+                    "annotations": [
+                        {
+                            "boundingPoly": [
+                                {
+                                    "normalizedVertices": [
+                                        {
+                                            "x": 0.3589053202770398,
+                                            "y": 0.45015699038508517
+                                        },
+                                        {
+                                            "x": 0.3589053202770398,
+                                            "y": 0.39146588261720094
+                                        },
+                                        {
+                                            "x": 0.5944685304870405,
+                                            "y": 0.39146588261720094
+                                        },
+                                        {
+                                            "x": 0.5944685304870405,
+                                            "y": 0.45015699038508517
+                                        }
+                                    ],
+                                    "vertices": [
+                                        {
+                                            "x": 564.1991634755066,
+                                            "y": 463.21154310625263
+                                        },
+                                        {
+                                            "x": 564.1991634755066,
+                                            "y": 402.8183932130998
+                                        },
+                                        {
+                                            "x": 934.5045299256277,
+                                            "y": 402.8183932130998
+                                        },
+                                        {
+                                            "x": 934.5045299256277,
+                                            "y": 463.21154310625263
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "name": "NAME"
+                                }
+                            ],
+                            "children": {
+                                "JOB_1": {
+                                    "text": "Willeke Liselotte"
+                                }
+                            },
+                            "labelVersion": "prediction",
+                            "mid": "20230412115728903-56515",
+                            "type": "rectangle"
+                        },
+                        {
+                            "boundingPoly": [
+                                {
+                                    "normalizedVertices": [
+                                        {
+                                            "x": 0.35789431937485094,
+                                            "y": 0.36984284291324354
+                                        },
+                                        {
+                                            "x": 0.35789431937485094,
+                                            "y": 0.31115173514535943
+                                        },
+                                        {
+                                            "x": 0.513588458311933,
+                                            "y": 0.31115173514535943
+                                        },
+                                        {
+                                            "x": 0.513588458311933,
+                                            "y": 0.36984284291324354
+                                        }
+                                    ],
+                                    "vertices": [
+                                        {
+                                            "x": 562.6098700572657,
+                                            "y": 380.56828535772763
+                                        },
+                                        {
+                                            "x": 562.6098700572657,
+                                            "y": 320.17513546457485
+                                        },
+                                        {
+                                            "x": 807.3610564663587,
+                                            "y": 320.17513546457485
+                                        },
+                                        {
+                                            "x": 807.3610564663587,
+                                            "y": 380.56828535772763
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "name": "SURNAME"
+                                }
+                            ],
+                            "children": {
+                                "JOB_2": {
+                                    "text": "De Bruijn"
+                                }
+                            },
+                            "labelVersion": "prediction",
+                            "mid": "20230412115753258-96993",
+                            "type": "rectangle"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": {
+            "height": 1029,
+            "width": 1572
+        },
+        "skipped": false
+    }
+]

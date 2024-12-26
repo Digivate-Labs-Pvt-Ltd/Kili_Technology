@@ -1,0 +1,209 @@
+[
+	{
+		"pageResolutions": null,
+		"resolution": {
+			"height": 2112,
+			"width": 1214
+		},
+		"latestLabel": {
+			"author": {
+				"email": "mailsyed078@gmail.com",
+				"firstname": "Mohsin",
+				"id": "cm3mk3wow208801bpdxsqf2j5",
+				"lastname": "Anwer",
+				"name": "Mohsin Anwer"
+			},
+			"createdAt": "2024-12-18T06:29:23.484Z",
+			"isLatestLabelForUser": true,
+			"isSentBackToQueue": false,
+			"jsonResponse": {
+				"OBJECT_DETECTION_JOB": {
+					"annotations": [
+						{
+							"boundingPoly": [
+								{
+									"normalizedVertices": [
+										{
+											"x": 0.32094529341589506,
+											"y": 0.18103448275862066
+										},
+										{
+											"x": 0.32094529341589506,
+											"y": 0.16206896551724126
+										},
+										{
+											"x": 0.5639038800204511,
+											"y": 0.16206896551724126
+										},
+										{
+											"x": 0.5639038800204511,
+											"y": 0.18103448275862066
+										}
+									],
+									"vertices": [
+										{
+											"x": 389.6275862068966,
+											"y": 382.34482758620686
+										},
+										{
+											"x": 389.6275862068966,
+											"y": 342.2896551724135
+										},
+										{
+											"x": 684.5793103448276,
+											"y": 342.2896551724135
+										},
+										{
+											"x": 684.5793103448276,
+											"y": 382.34482758620686
+										}
+									]
+								}
+							],
+							"categories": [
+								{
+									"name": "NAME"
+								}
+							],
+							"labelVersion": "default",
+							"mid": "20241218115814860-42",
+							"type": "rectangle",
+							"children": {
+								"TRANSCRIPTION_JOB": {
+									"text": "Shree Prakash Rai"
+								}
+							}
+						}
+					]
+				},
+				"OBJECT_DETECTION_JOB_0": {
+					"annotations": [
+						{
+							"boundingPoly": [
+								{
+									"normalizedVertices": [
+										{
+											"x": 0.38093506788615583,
+											"y": 0.21724137931034482
+										},
+										{
+											"x": 0.38093506788615583,
+											"y": 0.19655172413793098
+										},
+										{
+											"x": 0.4589217746974948,
+											"y": 0.19655172413793098
+										},
+										{
+											"x": 0.4589217746974948,
+											"y": 0.21724137931034482
+										}
+									],
+									"vertices": [
+										{
+											"x": 462.4551724137932,
+											"y": 458.81379310344823
+										},
+										{
+											"x": 462.4551724137932,
+											"y": 415.11724137931026
+										},
+										{
+											"x": 557.1310344827587,
+											"y": 415.11724137931026
+										},
+										{
+											"x": 557.1310344827587,
+											"y": 458.81379310344823
+										}
+									]
+								}
+							],
+							"categories": [
+								{
+									"name": "GENDER"
+								}
+							],
+							"labelVersion": "default",
+							"mid": "20241218115848806-44",
+							"type": "rectangle",
+							"children": {
+								"TRANSCRIPTION_JOB_0": {
+									"text": "Male"
+								}
+							}
+						}
+					]
+				},
+				"OBJECT_DETECTION_JOB_1": {
+					"annotations": [
+						{
+							"boundingPoly": [
+								{
+									"normalizedVertices": [
+										{
+											"x": 0.29394989490427786,
+											"y": 0.37413793103448245
+										},
+										{
+											"x": 0.29394989490427786,
+											"y": 0.3293103448275858
+										},
+										{
+											"x": 0.6808839402374598,
+											"y": 0.3293103448275858
+										},
+										{
+											"x": 0.6808839402374598,
+											"y": 0.37413793103448245
+										}
+									],
+									"vertices": [
+										{
+											"x": 356.85517241379335,
+											"y": 790.179310344827
+										},
+										{
+											"x": 356.85517241379335,
+											"y": 695.5034482758613
+										},
+										{
+											"x": 826.5931034482762,
+											"y": 695.5034482758613
+										},
+										{
+											"x": 826.5931034482762,
+											"y": 790.179310344827
+										}
+									]
+								}
+							],
+							"categories": [
+								{
+									"name": "AADHAR_NUMBER"
+								}
+							],
+							"labelVersion": "default",
+							"mid": "20241218115858249-46",
+							"type": "rectangle",
+							"children": {
+								"TRANSCRIPTION_JOB_1": {
+									"text": "785157798712"
+								}
+							}
+						}
+					]
+				}
+			},
+			"labelType": "DEFAULT",
+			"modelName": null
+		},
+		"content": "https://storage.googleapis.com/label-backend-production/projects/cm4tie00c0e4u014c4f9o9ya1/assets/cm4tie72t0004356q3rrgzwbn/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20241218%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241218T062931Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=24436dfe2d7000a2d1fbe4fb700f06816e0f2df15f6fb3559c701e6a79a34fcae9c575c9d5a14da8d21cf6a27dcb4ad1f932103e278e3b2ae0fd03f40bf7a5e08b0118463d9b8f19e6635d8e790524c1555f5cba6e4a0bb6e51023e5cfacf0ca0a7e197d749e8ca1b4d97ce64db71512eacffed2f36ff8a3050efeb03bd3306d20f95ce2cb46c65d54918574ee97504d52d850292a33924c1ee11b6ad730f312aba450ccac3a12fff7748430ee782823cbe1fe2e4bde0f09b42ef29441acf5401394f4c9394e647ae41dff807d2eb8bcdd44a9469933ea0bab93fc34af5ee239c55fafbebc04aa4856d27443c550e23884e01330c730492f6cdaa1ed4b97ca8a",
+		"externalId": "prakash aadhar.jpg",
+		"id": "cm4tie72t0004356q3rrgzwbn",
+		"isProcessingAuthorized": true,
+		"jsonContent": "",
+		"jsonMetadata": {},
+		"skipped": false
+	}
+]

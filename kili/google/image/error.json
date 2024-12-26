@@ -1,0 +1,30 @@
+{
+  "name": "projects/205398200267/locations/us/operations/17038481678255034432",
+  "done": true,
+  "result": "error",
+  "response": {},
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.documentai.uiv1beta3.ImportDocumentsMetadata",
+    "commonMetadata": {
+      "state": "FAILED",
+      "createTime": "2024-11-27T12:11:50.468098Z",
+      "updateTime": "2024-11-27T12:11:51.141170Z",
+      "resource": "projects/205398200267/locations/us/processors/e17afe6a6a5c6aaf/dataset"
+    },
+    "individualImportStatuses": [
+      {
+        "inputGcsSource": "gs://digivate_generative_ai/Document_Understanding/killi/test/test1/kili-label-export-ID cards OCR Demo-2024-11-27_11-57.json",
+        "status": {
+          "code": 13,
+          "message": "Internal error encountered."
+        }
+      }
+    ],
+    "totalDocumentCount": 1
+  },
+  "error": {
+    "code": 13,
+    "message": "Internal error encountered.",
+    "details": []
+  }
+}
